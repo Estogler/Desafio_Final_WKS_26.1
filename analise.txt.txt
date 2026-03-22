@@ -1,0 +1,18 @@
+ANÁLISE DOS DADOS - VELOZCAR
+
+Nesse trabalho eu utilizei consultas SQL para analisar os dados do sistema de aluguel de veículos.
+
+1. Sobre os pagamentos:
+Percebi que os pagamentos podem ter diferentes formas, como pix, cartão e boleto. Isso ajuda a empresa a entender como os clientes preferem pagar.
+
+2. Sobre os veículos:
+Alguns veículos estão com status diferente, como disponível, alugado ou em manutenção. Isso é importante para saber quais carros podem ser alugados no momento.
+
+3. Sobre os aluguéis:
+Os aluguéis possuem status como ativo, finalizado ou atrasado. Isso ajuda a acompanhar melhor os contratos e identificar possíveis problemas.
+
+4. Sobre os clientes:
+Com as consultas, dá para ver quais clientes já fizeram mais aluguéis. Isso pode ajudar a empresa a dar mais atenção para esses clientes.
+
+5. Conclusão:
+Com essas consultas, fica mais fácil organizar as informações e entender o que está acontecendo no sistema. Isso ajuda a tomar decisões melhores e evitar erros que antes eram feitos manualmente.
